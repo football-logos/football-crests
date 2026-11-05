@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="400" overflow="visible" xml:space="preserve">
+<rect fill="#FFFFFF" width="600" height="400" />
+
+<rect fill="#ed1c24" width="40" height="40" x="240" y="60" />
+<rect fill="#ffffff" width="40" height="40" x="280" y="60" />
+<rect fill="#ed1c24" width="40" height="40" x="320" y="60" />
+
+<rect fill="#ed1c24" width="40" height="40" x="200" y="100" />
+<rect fill="#ffffff" width="40" height="40" x="240" y="100" />
+<rect fill="#ed1c24" width="40" height="40" x="280" y="100" />
+<rect fill="#ffffff" width="40" height="40" x="320" y="100" />
+<rect fill="#ed1c24" width="40" height="40" x="360" y="100" />
+
+<rect fill="#ed1c24" width="40" height="40" x="160" y="140" />
+<rect fill="#ffffff" width="40" height="40" x="200" y="140" />
+<rect fill="#ed1c24" width="40" height="40" x="240" y="140" />
+<rect fill="#ffffff" width="40" height="40" x="280" y="140" />
+<rect fill="#ed1c24" width="40" height="40" x="320" y="140" />
+<rect fill="#ffffff" width="40" height="40" x="360" y="140" />
+
+<rect fill="#ffffff" width="40" height="40" x="160" y="180" />
+<rect fill="#ed1c24" width="40" height="40" x="200" y="180" />
+<rect fill="#ffffff" width="40" height="40" x="240" y="180" />
+<rect fill="#ed1c24" width="40" height="40" x="280" y="180" />
+<rect fill="#ffffff" width="40" height="40" x="320" y="180" />
+<rect fill="#ed1c24" width="40" height="40" x="360" y="180" />
+<rect fill="#ffffff" width="40" height="40" x="400" y="180" />
+
+<rect fill="#ed1c24" width="40" height="40" x="160" y="220" />
+<rect fill="#ffffff" width="40" height="40" x="200" y="220" />
+<rect fill="#ed1c24" width="40" height="40" x="240" y="220" />
+<rect fill="#ffffff" width="40" height="40" x="280" y="220" />
+<rect fill="#ed1c24" width="40" height="40" x="320" y="220" />
+<rect fill="#ffffff" width="40" height="40" x="360" y="220" />
+
+<rect fill="#ed1c24" width="40" height="40" x="200" y="260" />
+<rect fill="#ffffff" width="40" height="40" x="240" y="260" />
+<rect fill="#ed1c24" width="40" height="40" x="280" y="260" />
+<rect fill="#ffffff" width="40" height="40" x="320" y="260" />
+<rect fill="#ed1c24" width="40" height="40" x="360" y="260" />
+
+<rect fill="#ed1c24" width="40" height="40" x="240" y="300" />
+<rect fill="#ffffff" width="40" height="40" x="280" y="300" />
+<rect fill="#ed1c24" width="40" height="40" x="320" y="300" />
+
+<circle cx="300" cy="200" r="140" stroke="#ffc20e" stroke-width="70" fill-opacity="0.0"/>
+<circle cx="300" cy="200" r="140" stroke="#0341A2" stroke-width="50" fill-opacity="0.0"/>
+
+<polygon opacity="0.5" points="583,17 583,383 17,383 0,400 600,400 600,0"/>
+<polygon opacity="0.5" fill="#FFFFFF" points="17,383 17,17 583,17 600,0 0,0 0,400"/>
+</svg>
